@@ -8,7 +8,8 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "main.blocks"
+        "main.blocks",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
@@ -24,5 +25,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "pyprj"
 }
